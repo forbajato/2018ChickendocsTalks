@@ -108,6 +108,80 @@ Should talk about the fact that IDDM is more commonly linked because the duratio
 * Blood pressure monitoring
 * Follow potassium in patients on ACEI or ARB
 
+# IgA Vasculitis (HSP)
+\frame{\tableofcontents[hideothersubsections]}
+
+## Presentation
+
+### Presentation
+
+* Palpable purpura without thrombocytopenia
+* Arthritis/arthralgia
+* Abdominal pain
+* Renal disease
+
+<!--Purpura (75% of patients) is gravity dependent as is the arthritis/arthralgia (just over 50-75% of patients).  
+Often patients will also have edema which improves with elevating the edematous area, elevation will help the arthritis too. 
+Abdominal pain can be accompanied by GI bleeding but massive GI bleeding is rare. (about 50% of patients)
+Renal manifestations are non-nephrotic proteinuria and microscopic or macroscopic hematuria (25-50% of patients).-->
+
+### IgAV Rash
+
+![Palpable Purpura](./img/SknlsnHnchSchnlnprpIgA.jpg)
+
+### Dorsal hand edema
+
+![Dorsal hand edema](./img/IgAV_HSP_dorsal_edema_scale_crop.jpg)
+
+### Immunfluorescence
+
+![IgAV biopsy](./img/IgA_nephropathy_IF.jpg)
+
+### Unusual manifestations
+
+* Scrotal pain 
+* Headache, seizures, encephalopathy
+* Respiratory signs
+* Keratitis and uveitis
+
+<!--Scrotal pain, swelling, testicular pain and tenderness (2-38%), may mimic torsion.-->
+<!--CNS manifestations - the vasculitis is in all organ systems, CNS may even have intracranial hemorrhage - keep in mind if the mental status suddenly deteriorates.-->
+<!--CXRs in IgAV patients generally show mild interstitial changes with no significant respiratory symptoms.-->
+<!--Eye manifestations are quite rare. If you see this think about other causes of the keratitis or uveitis.-->
+
+## Management
+
+### Management
+
+* Maintain hydration, elevate edematous areas, etc.
+* Treat pain
+* Consider steroids
+* Hospitalize
+
+### Outpatient management
+
+* NSAIDS - naproxen or ibuprofen
+* Prednisone - rarely needed
+
+<!--Steroids may improve symptoms but don't affect the clinical course.
+NSAIDS do improve symptoms but watch renal function closely and be very careful if child has GI bleeding!-->
+
+### Criteria for hospitalization
+
+* Unable to maintain hydration
+* Severe abdominal pain
+* GI bleeding
+* Mental status changes
+* Limited self-care (secondary to joint pain)
+* Renal insufficiency
+
+### Monitoring
+
+* 1/3 or patients will recur at least once
+* Monitor urinalysis and BP weekly - q2w for the first 2 months after presentation
+* Monitor monthly until 1 year after initial presentation
+* Check BP and UA at annual well-child visits to monitor for adult disease onset
+
 # Questions?
 
 ### Questions? 提问题?
