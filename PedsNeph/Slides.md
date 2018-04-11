@@ -24,7 +24,9 @@ Edit the introduction!
 
 <!--ToDo: Update this photo-->
 
-![Lovely daughters!](./img/img_0002_300.jpg)
+\begin{figure}
+\includegraphics[scale=0.7]{./img/img_0002_300.jpg}
+\end{figure}
 
 ## Objectives
 
@@ -127,15 +129,21 @@ Renal manifestations are non-nephrotic proteinuria and microscopic or macroscopi
 
 ### IgAV Rash
 
-![Palpable Purpura](./img/SknlsnHnchSchnlnprpIgA.jpg)
+\begin{figure}
+\includegraphics[scale=0.5]{./img/SknlsnHnchSchnlnprpIgA.jpg}
+\end{figure}
 
 ### Dorsal hand edema
 
-![Dorsal hand edema](./img/IgAV_HSP_dorsal_edema_scale_crop.jpg)
+\begin{figure}
+\includegraphics[scale=0.5]{./img/IgAV_HSP_dorsal_edema_scale_crop.jpg}
+\end{figure}
 
 ### Immunfluorescence
 
-![IgAV biopsy](./img/IgA_nephropathy_IF.jpg)
+\begin{figure}
+\includegraphics[scale=0.5]{./img/IgA_nephropathy_IF.jpg}
+\end{figure}
 
 ### Unusual manifestations
 
@@ -181,6 +189,93 @@ NSAIDS do improve symptoms but watch renal function closely and be very careful 
 * Monitor urinalysis and BP weekly - q2w for the first 2 months after presentation
 * Monitor monthly until 1 year after initial presentation
 * Check BP and UA at annual well-child visits to monitor for adult disease onset
+
+# Myelomeningocele
+\frame{\tableofcontents[hideothersubsections]}
+
+## Case Study
+
+### A Case Study
+
+17YO African American female referred from Family Medicine clinic.  Child followed at state Spina Bifida clinic for her whole life.  During routine visit in the Family Medicine clinic she was discovered to have hypertension.  Investigation revealed a hematocrit of 17mg/dL, creatinine of 9mg/dL.  Family medicine resident immediately referred to peds nephrology for evaluation and treatment.
+
+### Varieties of neurogenic bladder
+
+* Flaccid bladder
+* High pressure bladder
+* Hyperreflexic bladder
+* Overactive sphincter
+* Detrusor sphinctor dyssynergia
+
+<!--Many ways to the problem, bottom line is the bladder doesn't empty, pressure backs up the system and that isn't good for the kidneys.-->
+
+## Assessment
+
+### Assessment
+
+* Ultrasound of kidney and bladder
+* Urodynamics (voiding cystourethrogram, cystometrogram/EMG)
+* Consider DMSA/MAG3 renal scan
+* Urine culture
+
+<!--Ultrasound when you have a diagnosis.
+Urodynamics to demonstrate the degree of dysfunction.
+DMSA or MAG3 renal scan if the upper tract has abnormalities per ultrasound.
+Urine culture only if there are UTI symptoms.-->
+
+## Management
+
+### Management
+
+* Clean intermittent catheterization
+* Consider anticholinergics
+* UTIs
+* Bowel management
+
+<!--CIC is the mainstay of therapy. We say "clean" because it doesn't need to be sterile.  It won't take long for the child to be colonized, hence our desire to avoid urine culture unless there are clear signs of UTI. Most children that start early (less than 1YO) can self cath by age 5. Chinese docs don't like CIC and prefer indwelling caths - an approach that is associated with an increase in infection.
+Anticholinergics are good if they have high pressure bladder or hyperreflexic bladder and VUR.
+Cloudy, smelly urine -> increase CIC interval and increase fluids
+Pain with CIC, gross hematuria, back or belly pain, lethargy, fever, vomiting -> consider a UTI
+Prophylactic antibiotics? - I don't do it.
+-->
+
+### Management - CIC
+
+* Mainstay of therapy
+* Clean, not sterile
+* Start early (< 1YO)
+* Lanzhou approach != Alabama approach
+
+### Management - Anticholinergics
+
+* Oxybutynin (Ditropan)
+	* < 12m - 0.1mg/kg tid
+	* 1-5YO 0.2mg/kg tid
+	* for > 5YO 5mg tabs tid, consider the transdermal preparation
+* Tolterodine (Detrol)
+	* for > 5YO children
+	* 1-2mg bid
+* Both have long acting forms suitable for older children
+
+### Management - UTI
+
+* Cloudy, smelly urine
+	* Increase fluids
+	* Increase frequency of CIC
+	* Not necessarily a UTI
+* UTI symptoms
+	* pain during CIC
+	* gross hematuria
+	* back or belly pain
+	* lethargy (think shunt malfunction too)
+	* fever (think about that shunt!
+	* vomiting (more shunt worries)
+
+### Management - Bowel
+
+* Neurogenic bowel a common co-morbidity
+* Most commonly constipated, may have laxity of anal sphincter
+* Goal of therapy is timed elimination, use laxatives, suppositories, enemas, etc.
 
 # Questions?
 
