@@ -25,7 +25,7 @@ Edit the introduction!
 <!--ToDo: Update this photo-->
 
 \begin{figure}
-\includegraphics[scale=0.7]{./img/img_0002_300.jpg}
+\includegraphics[scale=0.3]{./img/siblingsday.jpg}
 \end{figure}
 
 ## Objectives
@@ -225,7 +225,7 @@ Urine culture only if there are UTI symptoms.-->
 
 ## Management
 
-### Management
+### Management - 4 Aspects
 
 * Clean intermittent catheterization
 * Consider anticholinergics
@@ -268,7 +268,7 @@ Prophylactic antibiotics? - I don't do it.
 	* gross hematuria
 	* back or belly pain
 	* lethargy (think shunt malfunction too)
-	* fever (think about that shunt!
+	* fever (think about that shunt!)
 	* vomiting (more shunt worries)
 
 ### Management - Bowel
